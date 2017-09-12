@@ -1,0 +1,48 @@
+<style>
+    header {
+        background-color:black;
+        color:white;
+        text-align:center;
+        padding:25px; 
+    }
+    nav.firstNav {
+        line-height:30px;
+        background-color:LightGray;
+        height:450px;
+        width:250px;
+        float:left;
+        padding:10px; 
+    }
+
+    nav.secondNav {
+        line-height:30px;
+        background-color:LightGray;
+        height:450px;
+        width:250px;
+        float:left;
+        padding:10px; 
+    }
+
+    section {
+        height:450px;
+        width:687px;
+        float:left;
+        padding:10px; 
+        background-color:grey;
+    }
+
+    footer {
+        background-color:black;
+        color:white;
+        clear:both;
+        text-align:center;
+        padding:25px; 
+    }
+    div.divInSection {
+        background-color:Silver;
+        color:white;
+        clear:both;
+        text-align:center;
+        padding:132px; 
+    }
+</style>
